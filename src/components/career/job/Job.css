@@ -1,0 +1,31 @@
+
+.job-container{
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.job-titles{
+    font-size: 1.2rem;
+    font-weight: 600;
+    
+}
+
+.job-details{
+    margin-left: 0.7rem;
+}
+
+.apply-btn{
+    margin-top: 1rem;
+    padding: 0.1rem 1.2rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+    background-color: black;
+    color: white;
+}
+
+.apply-btn:hover{
+    color: black;
+    background-color: white;
+    transition: background-color 500ms ease-in-out;
+}
