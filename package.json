@@ -1,12 +1,11 @@
 {
   "name": "peppermint",
-  "homepage": "https://Gods-Blessing.github.io/PeppermintAssign",
-  "private": false,
+  "homepage": "https://gods-blessing.github.io/PeppermintAssign",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
