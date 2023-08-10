@@ -1,7 +1,7 @@
 {
   "name": "peppermint",
-  "homepage": "https://gods-blessing.github.io/PeppermintAssign",
-  "private": true,
+  "homepage": "https://Gods-Blessing.github.io/PeppermintAssign",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
